@@ -1,0 +1,28 @@
+Some general notes for the protoboards this directory
+
+Shetch:
+BoardWidth    20.0 mm
+BoardLength   80.0 mm
+MountHole     2.52 mm  (3.40 mm for 90 x 70)
+MountHoleX    1.80 mm  (3.25 mm for 90 x 70)
+MountHoleY    2.16 mm  (2.40 mm for 90 x 70)
+
+Sketch001: Hole Array
+PinHole       0.49
+EdgeOffsetX   5.70 mm  (7.00 mm for 90 x 70) (1.5 for board cut)
+EdgeOffsetY   3.40 mm
+
+Sketch002: Pad Array
+PadX         2.00 mm
+PadY         1.80 mm
+PadOffestY   5.80  mm    
+PadEdgeH     1.13 mm
+
+Hole Array spacing is 2.45 
+
+Sketch.Constraints.BoardLength - Sketch001.Constraints.EdgeOffsetX * 2
+(Sketch.Constraints.BoardLength - Sketch001.Constraints.EdgeOffsetX * 2) / 2.45
+
+Sketch.Constraints.BoardWidth - Sketch001.Constraints.EdgeOffsetY * 2
+
+Sketch.Constraints.BoardWidth - Sketch002.Constraints.PadOffset * 2

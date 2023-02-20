@@ -1,0 +1,10 @@
+Notes for the Max232_Module
+
+BoardSizeY   9.45 mm
+BoardSizeX  16.00 mm
+
+PadDiameter  1.450 mm
+PadOffsetX   1.000 mm
+PadOffsetY   1.125 mm
+
+Sketch.Constraints.BoardSizeY / 2 - Sketch001.Constraints.PadOffsetY * 2
