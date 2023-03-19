@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "3.0mm Endmill",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "11.50 mm",
+    "Diameter": "3.00 mm",
+    "Flutes": "0",
+    "Length": "38.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "3.17 mm"
+  },
+  "attribute": {}
+}

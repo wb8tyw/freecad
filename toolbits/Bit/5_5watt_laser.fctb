@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "5.5 watt laser",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "20.00 mm",
+    "Diameter": "0.10 mm",
+    "Flutes": "0",
+    "Length": "30.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "12.71 mm"
+  },
+  "attribute": {}
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "25.4mm_Surface",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "7.00 mm",
+    "Diameter": "25.40 mm",
+    "Flutes": "0",
+    "Length": "40.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "6.35 mm"
+  },
+  "attribute": {}
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "3.175mm Flat Nose",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0.00 mm",
+    "CuttingEdgeHeight": "17.00 mm",
+    "Diameter": "3.17 mm",
+    "Flutes": "2",
+    "Length": "38.00 mm",
+    "Material": "HSS",
+    "ShankDiameter": "3.17 mm"
+  },
+  "attribute": {}
+}
