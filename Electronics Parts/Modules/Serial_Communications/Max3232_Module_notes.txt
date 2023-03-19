@@ -8,3 +8,9 @@ PadOffsetX   1.000 mm
 PadOffsetY   1.125 mm
 
 Sketch.Constraints.BoardSizeY / 2 - Sketch001.Constraints.PadOffsetY * 2
+
+For MAX232 breadboard module label:
+Verticle text is 5pt Liberation Sans (Default Font)
+Spacing after each newline is 0.49 mm
+
+RS-232 pinout side designed to match pin numbers of a mail DB-9 connector starting with pin-2

@@ -12,3 +12,4 @@ Private
 *.kicad_prl
 *-save.kicad_pcb
 fp-info-cache
+.~lock*

@@ -941,7 +941,7 @@
     (in_bom yes) (on_board yes)
     (uuid f6bc4b0a-2446-412c-bdef-2aed77bef9ef)
     (property "Reference" "BOTTOM_PAD7" (id 0) (at 86.36 86.36 0))
-    (property "Value" "T2IN TTL" (id 1) (at 86.36 88.9 0))
+    (property "Value" "T1IN TTL" (id 1) (at 86.36 88.9 0))
     (property "Footprint" "" (id 2) (at 96.52 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -981,7 +981,7 @@
       (reference "BOTTOM_PAD4") (unit 1) (value "T1OUT RS-232") (footprint "")
     )
     (path "/f6bc4b0a-2446-412c-bdef-2aed77bef9ef"
-      (reference "BOTTOM_PAD7") (unit 1) (value "T2IN TTL") (footprint "")
+      (reference "BOTTOM_PAD7") (unit 1) (value "T1IN TTL") (footprint "")
     )
     (path "/e8b1b24d-8a70-435d-ba02-786aaad18b3d"
       (reference "BOTTOM_PAD8") (unit 1) (value "R1OUT TTL") (footprint "")
