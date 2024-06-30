@@ -25,3 +25,12 @@ also extends to meet the side rail, which holds the door into position.
 Unless you know to look for it, this adapter is not visible and if you do see it, it looks
 like it is suppose to be there.
 
+## Toilet Lid Spacer
+
+This is a replacement for the spacers on the bottom of a replacement toilet seat.
+I have not yet worked out the best fill factor for these spacers, and no longer have that
+type of toilet seat.
+
+FreeCAD would not generate a step file for this part.  It also did not give me an error
+message of why it did not.
+
